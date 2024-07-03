@@ -25,6 +25,8 @@ APIs externas (se utilizadas para o mapa de localização, por exemplo)
 Capturas de Tela
 
 visualizações e funcionalidades do site.
+
+
 [Screen recording 2024-07-03 17.23.01.webm](https://github.com/alinemello29/Melo-Cafe/assets/109696840/787b2e11-15e3-458b-8a4f-00664e2025ec)
 
 
